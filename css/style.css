@@ -1,0 +1,18 @@
+head {
+    display: none;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    display: block;
+}
+element.style {
+    margin: 0px;
+    background: #0e0e0e;
+    height: 100%;
+}
+element.style {
+    height: 100%;
+}
